@@ -26,7 +26,6 @@ Please make sure to update tests as appropriate.
 
 
 ## Contact
-
-Your Name - Dhaval - kachhiyapateldhaval@gmail.com
+Dhaval - kachhiyapateldhaval@gmail.com
 
 
